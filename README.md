@@ -6,7 +6,7 @@
 ---
 
 <p>
-  Sou um Desenvolvedor, Pentester, Analista de segurança e nas horas vagas freelancer. Amo programação, hacking e malwares. Meu hobbie é programar. Atualmente estou trabalhando em uma empresa de cyber segurança como Pentester.
+  Dev, Pentester, Red Team, Ofessnive Security entusiast.
 </p>
 
 <details open>
