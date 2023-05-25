@@ -19,7 +19,3 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
-### Souzomain Stats
----
-
-<img  src="https://activity-graph.herokuapp.com/graph?username=souzomain&theme=dracula"  />
