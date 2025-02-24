@@ -4,7 +4,7 @@
 ---
 
 <p>
-  Dev, Pentester, Red Team, Ofessnive Security entusiast.
+  Dev, Pentester, Red Team, Offensive Security entusiast.
 </p>
 
 
