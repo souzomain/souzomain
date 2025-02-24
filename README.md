@@ -1,7 +1,5 @@
 # Souzomain
 
-<p align="center"><img src="souzo-neofetch.png" width='500'></p>
-
 ### Whoami
 ---
 
