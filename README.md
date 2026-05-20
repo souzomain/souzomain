@@ -53,12 +53,12 @@ Built and matured security operations programs from the ground up.
 
 Open source tools built from real-world security work:
 
-| Project | Language | Description |
-|---------|----------|-------------|
-| [Clickdetect](https://github.com/clicksiem/clickdetect) | Python | Detection engine for generic data sources |
-| [Shaco](https://github.com/souzomain/Shaco) | C | Linux implant for Havoc C2 Framework |
-| [Packer](https://github.com/souzomain/Packer) | C / Python | Fast serialization library for malware development |
-| [MinLoader](https://github.com/souzomain/MinLoader) | C | Lightweight Windows in-memory PE loader library |
+| Project | Language | Description | Stars | 
+|---------|----------|-------------|-------|
+| [Clickdetect](https://github.com/clicksiem/clickdetect) | Python | Detection engine for generic data sources | [Stars](https://img.shields.io/github/stars/clicksiem/clickdetect) | 
+| [Shaco](https://github.com/souzomain/Shaco) | C | Linux implant for Havoc C2 Framework | [Stars](https://img.shields.io/github/stars/souzomain/Shaco) |
+| [Packer](https://github.com/souzomain/Packer) | C / Python | Fast serialization library for malware development | [Stars](https://img.shields.io/github/stars/souzomain/Packer) |
+| [MinLoader](https://github.com/souzomain/MinLoader) | C | Lightweight Windows in-memory PE loader library | [Stars](https://img.shields.io/github/stars/souzomain/MinLoader) |
 
 ---
 
@@ -69,12 +69,3 @@ Open source tools built from real-world security work:
 | Low-level | ASM, C / C++ (CMake, CTest) |
 | Scripting | Python, PHP |
 | Web / Backend | JavaScript / TypeScript, NestJS, Bun |
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souzomain&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzomain&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" />
-</p>
