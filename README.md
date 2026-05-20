@@ -55,10 +55,10 @@ Open source tools built from real-world security work:
 
 | Project | Language | Description | Stars | 
 |---------|----------|-------------|-------|
-| [Clickdetect](https://github.com/clicksiem/clickdetect) | Python | Detection engine for generic data sources | [Stars](https://img.shields.io/github/stars/clicksiem/clickdetect) | 
-| [Shaco](https://github.com/souzomain/Shaco) | C | Linux implant for Havoc C2 Framework | [Stars](https://img.shields.io/github/stars/souzomain/Shaco) |
-| [Packer](https://github.com/souzomain/Packer) | C / Python | Fast serialization library for malware development | [Stars](https://img.shields.io/github/stars/souzomain/Packer) |
-| [MinLoader](https://github.com/souzomain/MinLoader) | C | Lightweight Windows in-memory PE loader library | [Stars](https://img.shields.io/github/stars/souzomain/MinLoader) |
+| [Clickdetect](https://github.com/clicksiem/clickdetect) | Python | Detection engine for generic data sources | ![Stars](https://img.shields.io/github/stars/clicksiem/clickdetect) | 
+| [Shaco](https://github.com/souzomain/Shaco) | C | Linux implant for Havoc C2 Framework | ![Stars](https://img.shields.io/github/stars/souzomain/Shaco) |
+| [Packer](https://github.com/souzomain/Packer) | C / Python | Fast serialization library for malware development | ![Stars](https://img.shields.io/github/stars/souzomain/Packer) |
+| [MinLoader](https://github.com/souzomain/MinLoader) | C | Lightweight Windows in-memory PE loader library | ![Stars](https://img.shields.io/github/stars/souzomain/MinLoader) |
 
 ---
 
