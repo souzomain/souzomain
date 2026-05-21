@@ -6,10 +6,11 @@
 **Nick:** souzo / souzomain  
 **Name:** Vinicius Morais  
 **Email:** me@souzo.me  
-**LinkedIn:** https://www.linkedin.com/in/vinicius-m-a76ba51b5/  
-**GitHub:** https://github.com/souzomain  
-**Blog:** https://blog.souzo.me  
-**Medium:** https://medium.com/@souzo  
+**LinkedIn:** [https://www.linkedin.com/in/vinicius-m-a76ba51b5/ ](https://www.linkedin.com/in/vinicius-m-a76ba51b5/ ) 
+**GitHub:** [https://github.com/souzomain](https://github.com/souzomain)  
+**Blog:** [https://blog.souzo.me](https://blog.souzo.me)  
+**Medium:** [https://medium.com/@souzo](https://medium.com/@souzo)  
+**X/Twitter:** [https://x.com/souzomain](https://x.com/souzomain)
 
 ---
 
